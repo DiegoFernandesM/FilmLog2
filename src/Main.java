@@ -1,5 +1,4 @@
-import Api.ApiOmdb;
-import Filmlog.Titles.MotherClass.Titles;
+import Filmlog.Titles.CamadaModelo.Titles;
 
 import java.util.ArrayList;
 import java.util.List;

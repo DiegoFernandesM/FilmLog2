@@ -1,4 +1,4 @@
-package Filmlog.Titles.MotherClass;
+package Filmlog.Titles.CamadaModelo;
 
 public class Titles {
     private int anoDeLancamento;
